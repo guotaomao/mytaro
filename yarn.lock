@@ -1343,6 +1343,11 @@
     "@tarojs/service" "3.3.15"
     "@tarojs/shared" "3.3.15"
 
+"@tarojs/plugin-platform-weapp-qy@^0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@tarojs/plugin-platform-weapp-qy/-/plugin-platform-weapp-qy-0.0.7.tgz#6378aaac79b18feab2bae2b7657ee982161bb2cb"
+  integrity sha512-1ve/lRJLOYKrDzuyAJXiNrOUzMJOl6y003NovDmkH5KIyPzXYyPUQ1trcd5V6A8imBjejtVRL4XzFbZZMnIRQg==
+
 "@tarojs/plugin-platform-weapp@3.3.15":
   version "3.3.15"
   resolved "https://registry.yarnpkg.com/@tarojs/plugin-platform-weapp/-/plugin-platform-weapp-3.3.15.tgz#b779e17f87f62a20d3fb542af0335d4e0920a905"
